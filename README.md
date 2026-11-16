@@ -74,4 +74,4 @@ Note : X is a number, triggers needs to be from 0 to X, do not make missing numb
 <img src="https://user-images.githubusercontent.com/39272935/176427368-4fda5ce1-f56a-4a73-8066-8b424a88ba4a.png" width="700">
 
 ### TODO :
-- [ ] Export code by clicking a button instead of enter in play mode.
+- [ ] Port tool to Godot.
